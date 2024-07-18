@@ -21,6 +21,6 @@ I'm an aspiring Full-Stack Developer, currently on the third year of my bachelor
 ## Projects worth cheking out:
 
 (to be updated)
-- [Backend exam](https://github.com/kristiania-pgr209-2022/pg209exam-sebastiannordby)
-- [Smidig prosjekt (agile) exam](https://github.com/bilalStudy/ChewTestApplication)
+- [Backend exam (Replica of facebook's messenger)](https://github.com/kristiania-pgr209-2022/pg209exam-sebastiannordby)
+- [Smidig prosjekt (agile) exam (Cooking app prototype for a company named Chew)](https://github.com/bilalStudy/ChewTestApplication)
 - [Devops exam](https://github.com/Matsjohaa/Devops-Exam)

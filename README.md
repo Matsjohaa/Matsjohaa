@@ -19,6 +19,7 @@ I'm an aspiring Full-Stack Developer, currently on the third year of my bachelor
 [![My Skills](https://skillicons.dev/icons?i=idea,docker,git,postman,selenium,unity,mysql,mongodb)](https://skillicons.dev)
 
 ## Projects worth cheking out:
+
 (to be updated)
-- 
-- [Devops exan](https://github.com/Matsjohaa/Devops-Exam)
+- [Backend exam](https://github.com/kristiania-pgr209-2022/pg209exam-sebastiannordby)
+- [Devops exam](https://github.com/Matsjohaa/Devops-Exam)

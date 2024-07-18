@@ -22,4 +22,5 @@ I'm an aspiring Full-Stack Developer, currently on the third year of my bachelor
 
 (to be updated)
 - [Backend exam](https://github.com/kristiania-pgr209-2022/pg209exam-sebastiannordby)
+- [Smidig(agile) exam](https://github.com/bilalStudy/ChewTestApplication)
 - [Devops exam](https://github.com/Matsjohaa/Devops-Exam)

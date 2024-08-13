@@ -6,7 +6,7 @@ I'm an aspiring Full-Stack Developer.
 
 
 ## Connect with me
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mats-aakvik-johansen-004b9719b/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mats-aakvik-johansen)
 
 
 ## Languages, Frameworks, and Tools

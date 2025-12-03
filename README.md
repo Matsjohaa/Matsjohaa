@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-I'm an aspiring Full-Stack Developer.
+I'm an aspiring Full-Stack- and Machine Learning Developer.
 
 
 ## Connect with me

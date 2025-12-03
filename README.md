@@ -28,4 +28,4 @@ I'm an aspiring Full-Stack- and Machine Learning Developer.
 - [Web and API design exam](https://github.com/Matsjohaa/pg6301-reexam-Matsjohaa)
 
 ### Machine Learning:
-- [CNN-LSTM solar forecasting model](https://github.com/Matsjohaa/ACIT4620-exam)
+- [CNN-LSTM solar power forecasting model](https://github.com/Matsjohaa/ACIT4620-exam)

@@ -21,11 +21,12 @@ I'm an aspiring Full-Stack- and Machine Learning Developer.
 ## Projects worth cheking out:
 
 ### 
-- [Backend exam (Replica of facebook's messenger)](https://github.com/kristiania-pgr209-2022/pg209exam-sebastiannordby)
-- [Smidig prosjekt exam (Cooking app prototype for a company named Chew)](https://github.com/bilalStudy/ChewTestApplication)
-- [Devops exam](https://github.com/Matsjohaa/Devops-Exam)
-- [Unity exam (video)](https://www.youtube.com/watch?v=H_YeUJwItAM)
-- [Web and API design exam](https://github.com/Matsjohaa/pg6301-reexam-Matsjohaa)
+- [Backend Exam (Replica of facebook's messenger)](https://github.com/kristiania-pgr209-2022/pg209exam-sebastiannordby)
+- [Smidig Prosjekt Exam (Cooking app prototype for a company named Chew)](https://github.com/bilalStudy/ChewTestApplication)
+- [Devops Exam](https://github.com/Matsjohaa/Devops-Exam)
+- [Unity Exam (video)](https://www.youtube.com/watch?v=H_YeUJwItAM)
+- [Web and API Design Exam](https://github.com/Matsjohaa/pg6301-reexam-Matsjohaa)
 
 ### Machine Learning:
-- [CNN-LSTM solar power forecasting model](https://github.com/Matsjohaa/ACIT4620-exam)
+- [CNN-LSTM Solar Power Forecasting Model](https://github.com/Matsjohaa/ACIT4620-exam)
+- [Swarm Intelligence & RL Algorithms](https://github.com/Matsjohaa/ACIT4610-exam)

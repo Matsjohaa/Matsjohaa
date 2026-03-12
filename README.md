@@ -26,7 +26,6 @@ I'm an aspiring Full-Stack- and Machine Learning Developer.
 - [Devops Exam](https://github.com/Matsjohaa/Devops-Exam)
 - [Unity Exam (video)](https://www.youtube.com/watch?v=H_YeUJwItAM)
 - [Web and API Design Exam](https://github.com/Matsjohaa/pg6301-reexam-Matsjohaa)
-
-### Machine Learning:
 - [CNN-LSTM Solar Power Forecasting Model](https://github.com/Matsjohaa/ACIT4620-exam)
 - [Swarm Intelligence & RL Algorithms](https://github.com/Matsjohaa/ACIT4610-exam)
+- [Smart Doorbell (with facial recognition)](https://github.com/Matsjohaa/smart_doorbell)

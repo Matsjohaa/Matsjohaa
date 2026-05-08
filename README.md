@@ -1,9 +1,5 @@
 # Mats Aakvik Johansen
 
-Hi there 👋
-
-I'm an aspiring Full-Stack- and Machine Learning Developer.
-
 
 ## Connect with me
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mats-aakvik-johansen)
